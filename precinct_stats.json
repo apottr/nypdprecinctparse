@@ -1,0 +1,2738 @@
+{
+  "100": {
+    "precinct": "100",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "1",
+      "2016": "3",
+      "change": "200.0"
+    },
+    "28day": {
+      "2015": "16",
+      "2016": "7",
+      "change": "-56.2"
+    },
+    "year": {
+      "2015": "4",
+      "2016": "3",
+      "change": "-25.0"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "-25.0"
+    },
+    "23year": {
+      "change": "-40.0"
+    }
+  },
+  "101": {
+    "precinct": "101",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "5",
+      "2016": "3",
+      "change": "-40.0"
+    },
+    "28day": {
+      "2015": "16",
+      "2016": "16",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "3",
+      "change": "-50.0"
+    },
+    "2year": {
+      "change": "-66.7"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-75.0"
+    }
+  },
+  "102": {
+    "precinct": "102",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "7",
+      "change": "-22.2"
+    },
+    "28day": {
+      "2015": "32",
+      "2016": "22",
+      "change": "-31.2"
+    },
+    "year": {
+      "2015": "14",
+      "2016": "11",
+      "change": "-21.4"
+    },
+    "2year": {
+      "change": "-35.3"
+    },
+    "6year": {
+      "change": "120.0"
+    },
+    "23year": {
+      "change": "-45.0"
+    }
+  },
+  "103": {
+    "precinct": "103",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "5",
+      "change": "-44.4"
+    },
+    "28day": {
+      "2015": "41",
+      "2016": "32",
+      "change": "-22.0"
+    },
+    "year": {
+      "2015": "16",
+      "2016": "11",
+      "change": "-31.2"
+    },
+    "2year": {
+      "change": "57.1"
+    },
+    "6year": {
+      "change": "57.1"
+    },
+    "23year": {
+      "change": "-56.0"
+    }
+  },
+  "104": {
+    "precinct": "104",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "7",
+      "2016": "4",
+      "change": "-42.9"
+    },
+    "28day": {
+      "2015": "43",
+      "2016": "33",
+      "change": "-23.3"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "8",
+      "change": "-11.1"
+    },
+    "2year": {
+      "change": "-50.0"
+    },
+    "6year": {
+      "change": "-55.6"
+    },
+    "23year": {
+      "change": "-46.7"
+    }
+  },
+  "105": {
+    "precinct": "105",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "10",
+      "2016": "10",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "53",
+      "2016": "57",
+      "change": "7.5"
+    },
+    "year": {
+      "2015": "10",
+      "2016": "13",
+      "change": "30.0"
+    },
+    "2year": {
+      "change": "44.4"
+    },
+    "6year": {
+      "change": "30.0"
+    },
+    "23year": {
+      "change": "-18.8"
+    }
+  },
+  "106": {
+    "precinct": "106",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "15",
+      "2016": "15",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "67",
+      "2016": "53",
+      "change": "-20.9"
+    },
+    "year": {
+      "2015": "20",
+      "2016": "19",
+      "change": "-5.0"
+    },
+    "2year": {
+      "change": "137.5"
+    },
+    "6year": {
+      "change": "375.0"
+    },
+    "23year": {
+      "change": "0.0"
+    }
+  },
+  "107": {
+    "precinct": "107",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "11",
+      "2016": "7",
+      "change": "-36.4"
+    },
+    "28day": {
+      "2015": "39",
+      "2016": "37",
+      "change": "-5.1"
+    },
+    "year": {
+      "2015": "13",
+      "2016": "9",
+      "change": "-30.8"
+    },
+    "2year": {
+      "change": "-30.8"
+    },
+    "6year": {
+      "change": "12.5"
+    },
+    "23year": {
+      "change": "-10.0"
+    }
+  },
+  "108": {
+    "precinct": "108",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "28day": {
+      "2015": "36",
+      "2016": "38",
+      "change": "5.6"
+    },
+    "year": {
+      "2015": "10",
+      "2016": "8",
+      "change": "-20.0"
+    },
+    "2year": {
+      "change": "-33.3"
+    },
+    "6year": {
+      "change": "-11.1"
+    },
+    "23year": {
+      "change": "-66.7"
+    }
+  },
+  "109": {
+    "precinct": "109",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "17",
+      "2016": "22",
+      "change": "29.4"
+    },
+    "28day": {
+      "2015": "59",
+      "2016": "84",
+      "change": "42.4"
+    },
+    "year": {
+      "2015": "21",
+      "2016": "25",
+      "change": "19.0"
+    },
+    "2year": {
+      "change": "-16.7"
+    },
+    "6year": {
+      "change": "127.3"
+    },
+    "23year": {
+      "change": "-19.4"
+    }
+  },
+  "110": {
+    "precinct": "110",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "11",
+      "change": "-8.3"
+    },
+    "28day": {
+      "2015": "33",
+      "2016": "43",
+      "change": "30.3"
+    },
+    "year": {
+      "2015": "14",
+      "2016": "15",
+      "change": "7.1"
+    },
+    "2year": {
+      "change": "50.0"
+    },
+    "6year": {
+      "change": "-34.8"
+    },
+    "23year": {
+      "change": "-61.5"
+    }
+  },
+  "111": {
+    "precinct": "111",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "8",
+      "2016": "6",
+      "change": "-25.0"
+    },
+    "28day": {
+      "2015": "42",
+      "2016": "29",
+      "change": "-31.0"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "7",
+      "change": "-41.7"
+    },
+    "2year": {
+      "change": "-41.7"
+    },
+    "6year": {
+      "change": "-36.4"
+    },
+    "23year": {
+      "change": "-56.2"
+    }
+  },
+  "112": {
+    "precinct": "112",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "15",
+      "2016": "7",
+      "change": "-53.3"
+    },
+    "28day": {
+      "2015": "34",
+      "2016": "35",
+      "change": "2.9"
+    },
+    "year": {
+      "2015": "17",
+      "2016": "9",
+      "change": "-47.1"
+    },
+    "2year": {
+      "change": "-18.2"
+    },
+    "6year": {
+      "change": "-25.0"
+    },
+    "23year": {
+      "change": "-57.1"
+    }
+  },
+  "113": {
+    "precinct": "113",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "14",
+      "2016": "10",
+      "change": "-28.6"
+    },
+    "28day": {
+      "2015": "51",
+      "2016": "41",
+      "change": "-19.6"
+    },
+    "year": {
+      "2015": "16",
+      "2016": "14",
+      "change": "-12.5"
+    },
+    "2year": {
+      "change": "-22.2"
+    },
+    "6year": {
+      "change": "16.7"
+    },
+    "23year": {
+      "change": "-75.4"
+    }
+  },
+  "114": {
+    "precinct": "114",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "15",
+      "change": "66.7"
+    },
+    "28day": {
+      "2015": "47",
+      "2016": "64",
+      "change": "36.2"
+    },
+    "year": {
+      "2015": "13",
+      "2016": "22",
+      "change": "69.2"
+    },
+    "2year": {
+      "change": "120.0"
+    },
+    "6year": {
+      "change": "57.1"
+    },
+    "23year": {
+      "change": "-21.4"
+    }
+  },
+  "115": {
+    "precinct": "115",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "18",
+      "2016": "14",
+      "change": "-22.2"
+    },
+    "28day": {
+      "2015": "50",
+      "2016": "40",
+      "change": "-20.0"
+    },
+    "year": {
+      "2015": "21",
+      "2016": "19",
+      "change": "-9.5"
+    },
+    "2year": {
+      "change": "-5.0"
+    },
+    "6year": {
+      "change": "11.8"
+    },
+    "23year": {
+      "change": "-48.6"
+    }
+  },
+  "120": {
+    "precinct": "120",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "7",
+      "2016": "4",
+      "change": "-42.9"
+    },
+    "28day": {
+      "2015": "28",
+      "2016": "24",
+      "change": "-14.3"
+    },
+    "year": {
+      "2015": "7",
+      "2016": "4",
+      "change": "-42.9"
+    },
+    "2year": {
+      "change": "-33.3"
+    },
+    "6year": {
+      "change": "-33.3"
+    },
+    "23year": {
+      "change": "-69.2"
+    }
+  },
+  "122": {
+    "precinct": "122",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "0",
+      "2016": "6",
+      "change": "***.*"
+    },
+    "28day": {
+      "2015": "16",
+      "2016": "22",
+      "change": "37.5"
+    },
+    "year": {
+      "2015": "1",
+      "2016": "7",
+      "change": "600.0"
+    },
+    "2year": {
+      "change": "40.0"
+    },
+    "6year": {
+      "change": "-30.0"
+    },
+    "23year": {
+      "change": "-72.0"
+    }
+  },
+  "123": {
+    "precinct": "123",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "0",
+      "2016": "2",
+      "change": "***.*"
+    },
+    "28day": {
+      "2015": "5",
+      "2016": "11",
+      "change": "120.0"
+    },
+    "year": {
+      "2015": "0",
+      "2016": "5",
+      "change": "***.*"
+    },
+    "2year": {
+      "change": "0.0"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "400.0"
+    }
+  },
+  "083": {
+    "precinct": "83",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "5",
+      "2016": "6",
+      "change": "20.0"
+    },
+    "28day": {
+      "2015": "27",
+      "2016": "31",
+      "change": "14.8"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "8",
+      "change": "33.3"
+    },
+    "2year": {
+      "change": "100.0"
+    },
+    "6year": {
+      "change": "60.0"
+    },
+    "23year": {
+      "change": "-42.9"
+    }
+  },
+  "001": {
+    "precinct": "1",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "25",
+      "2016": "24",
+      "change": "-4.0"
+    },
+    "28day": {
+      "2015": "60",
+      "2016": "110",
+      "change": "83.3"
+    },
+    "year": {
+      "2015": "29",
+      "2016": "35",
+      "change": "20.7"
+    },
+    "2year": {
+      "change": "40.0"
+    },
+    "6year": {
+      "change": "34.6"
+    },
+    "23year": {
+      "change": "-59.3"
+    }
+  },
+  "019": {
+    "precinct": "19",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "22",
+      "2016": "19",
+      "change": "-13.6"
+    },
+    "28day": {
+      "2015": "98",
+      "2016": "114",
+      "change": "16.3"
+    },
+    "year": {
+      "2015": "31",
+      "2016": "28",
+      "change": "-9.7"
+    },
+    "2year": {
+      "change": "-22.2"
+    },
+    "6year": {
+      "change": "-22.2"
+    },
+    "23year": {
+      "change": "-71.7"
+    }
+  },
+  "028": {
+    "precinct": "28",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "7",
+      "2016": "10",
+      "change": "42.9"
+    },
+    "28day": {
+      "2015": "25",
+      "2016": "30",
+      "change": "20.0"
+    },
+    "year": {
+      "2015": "10",
+      "2016": "12",
+      "change": "20.0"
+    },
+    "2year": {
+      "change": "100.0"
+    },
+    "6year": {
+      "change": "100.0"
+    },
+    "23year": {
+      "change": "9.1"
+    }
+  },
+  "025": {
+    "precinct": "25",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "3",
+      "2016": "4",
+      "change": "33.3"
+    },
+    "28day": {
+      "2015": "17",
+      "2016": "25",
+      "change": "47.1"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "5",
+      "change": "-16.7"
+    },
+    "2year": {
+      "change": "-50.0"
+    },
+    "6year": {
+      "change": "-28.6"
+    },
+    "23year": {
+      "change": "-37.5"
+    }
+  },
+  "041": {
+    "precinct": "41",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "5",
+      "2016": "7",
+      "change": "40.0"
+    },
+    "28day": {
+      "2015": "24",
+      "2016": "23",
+      "change": "-4.2"
+    },
+    "year": {
+      "2015": "8",
+      "2016": "9",
+      "change": "12.5"
+    },
+    "2year": {
+      "change": "28.6"
+    },
+    "6year": {
+      "change": "50.0"
+    },
+    "23year": {
+      "change": "-10.0"
+    }
+  },
+  "034": {
+    "precinct": "34",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "15",
+      "2016": "16",
+      "change": "6.7"
+    },
+    "28day": {
+      "2015": "49",
+      "2016": "55",
+      "change": "12.2"
+    },
+    "year": {
+      "2015": "18",
+      "2016": "19",
+      "change": "5.6"
+    },
+    "2year": {
+      "change": "26.7"
+    },
+    "6year": {
+      "change": "137.5"
+    },
+    "23year": {
+      "change": "-24.0"
+    }
+  },
+  "088": {
+    "precinct": "88",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "7",
+      "change": "-22.2"
+    },
+    "28day": {
+      "2015": "22",
+      "2016": "22",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "8",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-20.0"
+    },
+    "6year": {
+      "change": "33.3"
+    },
+    "23year": {
+      "change": "-27.3"
+    }
+  },
+  "042": {
+    "precinct": "42",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "4",
+      "change": "-33.3"
+    },
+    "28day": {
+      "2015": "18",
+      "2016": "17",
+      "change": "-5.6"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "6",
+      "change": "0.0"
+    },
+    "2year": {
+      "change": "-57.1"
+    },
+    "6year": {
+      "change": "-14.3"
+    },
+    "23year": {
+      "change": "-60.0"
+    }
+  },
+  "081": {
+    "precinct": "81",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "3",
+      "2016": "7",
+      "change": "133.3"
+    },
+    "28day": {
+      "2015": "25",
+      "2016": "22",
+      "change": "-12.0"
+    },
+    "year": {
+      "2015": "5",
+      "2016": "9",
+      "change": "80.0"
+    },
+    "2year": {
+      "change": "-10.0"
+    },
+    "6year": {
+      "change": "80.0"
+    },
+    "23year": {
+      "change": "28.6"
+    }
+  },
+  "090": {
+    "precinct": "90",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "12",
+      "change": "33.3"
+    },
+    "28day": {
+      "2015": "36",
+      "2016": "45",
+      "change": "25.0"
+    },
+    "year": {
+      "2015": "13",
+      "2016": "15",
+      "change": "15.4"
+    },
+    "2year": {
+      "change": "-21.1"
+    },
+    "6year": {
+      "change": "50.0"
+    },
+    "23year": {
+      "change": "15.4"
+    }
+  },
+  "026": {
+    "precinct": "26",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "3",
+      "2016": "5",
+      "change": "66.7"
+    },
+    "28day": {
+      "2015": "15",
+      "2016": "19",
+      "change": "26.7"
+    },
+    "year": {
+      "2015": "5",
+      "2016": "7",
+      "change": "40.0"
+    },
+    "2year": {
+      "change": "0.0"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-58.8"
+    }
+  },
+  "013": {
+    "precinct": "13",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "26",
+      "2016": "23",
+      "change": "-11.5"
+    },
+    "28day": {
+      "2015": "121",
+      "2016": "90",
+      "change": "-25.6"
+    },
+    "year": {
+      "2015": "35",
+      "2016": "29",
+      "change": "-17.1"
+    },
+    "2year": {
+      "change": "-21.6"
+    },
+    "6year": {
+      "change": "-23.7"
+    },
+    "23year": {
+      "change": "-58.6"
+    }
+  },
+  "075": {
+    "precinct": "75",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "20",
+      "2016": "15",
+      "change": "-25.0"
+    },
+    "28day": {
+      "2015": "87",
+      "2016": "93",
+      "change": "6.9"
+    },
+    "year": {
+      "2015": "24",
+      "2016": "24",
+      "change": "0.0"
+    },
+    "2year": {
+      "change": "4.3"
+    },
+    "6year": {
+      "change": "26.3"
+    },
+    "23year": {
+      "change": "50.0"
+    }
+  },
+  "010": {
+    "precinct": "10",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "28day": {
+      "2015": "41",
+      "2016": "44",
+      "change": "7.3"
+    },
+    "year": {
+      "2015": "11",
+      "2016": "9",
+      "change": "-18.2"
+    },
+    "2year": {
+      "change": "-43.8"
+    },
+    "6year": {
+      "change": "-50.0"
+    },
+    "23year": {
+      "change": "-62.5"
+    }
+  },
+  "049": {
+    "precinct": "49",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "13",
+      "change": "116.7"
+    },
+    "28day": {
+      "2015": "29",
+      "2016": "44",
+      "change": "51.7"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "15",
+      "change": "66.7"
+    },
+    "2year": {
+      "change": "50.0"
+    },
+    "6year": {
+      "change": "66.7"
+    },
+    "23year": {
+      "change": "-25.0"
+    }
+  },
+  "005": {
+    "precinct": "5",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "8",
+      "2016": "8",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "35",
+      "2016": "39",
+      "change": "11.4"
+    },
+    "year": {
+      "2015": "11",
+      "2016": "10",
+      "change": "-9.1"
+    },
+    "2year": {
+      "change": "42.9"
+    },
+    "6year": {
+      "change": "-23.1"
+    },
+    "23year": {
+      "change": "-74.4"
+    }
+  },
+  "047": {
+    "precinct": "47",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "6",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "38",
+      "2016": "30",
+      "change": "-21.1"
+    },
+    "year": {
+      "2015": "8",
+      "2016": "7",
+      "change": "-12.5"
+    },
+    "2year": {
+      "change": "-53.3"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "-22.2"
+    }
+  },
+  "067": {
+    "precinct": "67",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "19",
+      "2016": "11",
+      "change": "-42.1"
+    },
+    "28day": {
+      "2015": "61",
+      "2016": "49",
+      "change": "-19.7"
+    },
+    "year": {
+      "2015": "22",
+      "2016": "14",
+      "change": "-36.4"
+    },
+    "2year": {
+      "change": "180.0"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-22.2"
+    }
+  },
+  "045": {
+    "precinct": "45",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "4",
+      "2016": "6",
+      "change": "50.0"
+    },
+    "28day": {
+      "2015": "29",
+      "2016": "47",
+      "change": "62.1"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "10",
+      "change": "11.1"
+    },
+    "2year": {
+      "change": "42.9"
+    },
+    "6year": {
+      "change": "-9.1"
+    },
+    "23year": {
+      "change": "42.9"
+    }
+  },
+  "040": {
+    "precinct": "40",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "4",
+      "2016": "11",
+      "change": "175.0"
+    },
+    "28day": {
+      "2015": "41",
+      "2016": "54",
+      "change": "31.7"
+    },
+    "year": {
+      "2015": "7",
+      "2016": "13",
+      "change": "85.7"
+    },
+    "2year": {
+      "change": "0.0"
+    },
+    "6year": {
+      "change": "30.0"
+    },
+    "23year": {
+      "change": "-35.0"
+    }
+  },
+  "061": {
+    "precinct": "61",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "11",
+      "2016": "17",
+      "change": "54.5"
+    },
+    "28day": {
+      "2015": "50",
+      "2016": "65",
+      "change": "30.0"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "22",
+      "change": "83.3"
+    },
+    "2year": {
+      "change": "57.1"
+    },
+    "6year": {
+      "change": "29.4"
+    },
+    "23year": {
+      "change": "-48.8"
+    }
+  },
+  "050": {
+    "precinct": "50",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "7",
+      "change": "16.7"
+    },
+    "28day": {
+      "2015": "31",
+      "2016": "41",
+      "change": "32.3"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "8",
+      "change": "33.3"
+    },
+    "2year": {
+      "change": "-11.1"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "14.3"
+    }
+  },
+  "009": {
+    "precinct": "9",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "13",
+      "2016": "23",
+      "change": "76.9"
+    },
+    "28day": {
+      "2015": "70",
+      "2016": "70",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "22",
+      "2016": "29",
+      "change": "31.8"
+    },
+    "2year": {
+      "change": "31.8"
+    },
+    "6year": {
+      "change": "70.6"
+    },
+    "23year": {
+      "change": "-32.6"
+    }
+  },
+  "070": {
+    "precinct": "70",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "11",
+      "change": "22.2"
+    },
+    "28day": {
+      "2015": "47",
+      "2016": "52",
+      "change": "10.6"
+    },
+    "year": {
+      "2015": "15",
+      "2016": "16",
+      "change": "6.7"
+    },
+    "2year": {
+      "change": "-27.3"
+    },
+    "6year": {
+      "change": "-11.1"
+    },
+    "23year": {
+      "change": "23.1"
+    }
+  },
+  "066": {
+    "precinct": "66",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "8",
+      "change": "-33.3"
+    },
+    "28day": {
+      "2015": "35",
+      "2016": "27",
+      "change": "-22.9"
+    },
+    "year": {
+      "2015": "17",
+      "2016": "9",
+      "change": "-47.1"
+    },
+    "2year": {
+      "change": "-10.0"
+    },
+    "6year": {
+      "change": "12.5"
+    },
+    "23year": {
+      "change": "-59.1"
+    }
+  },
+  "030": {
+    "precinct": "30",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "2",
+      "change": "-66.7"
+    },
+    "28day": {
+      "2015": "19",
+      "2016": "12",
+      "change": "-36.8"
+    },
+    "year": {
+      "2015": "7",
+      "2016": "2",
+      "change": "-71.4"
+    },
+    "2year": {
+      "change": "-75.0"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-75.0"
+    }
+  },
+  "068": {
+    "precinct": "68",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "4",
+      "2016": "9",
+      "change": "125.0"
+    },
+    "28day": {
+      "2015": "24",
+      "2016": "29",
+      "change": "20.8"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "12",
+      "change": "33.3"
+    },
+    "2year": {
+      "change": "71.4"
+    },
+    "6year": {
+      "change": "33.3"
+    },
+    "23year": {
+      "change": "-7.7"
+    }
+  },
+  "063": {
+    "precinct": "63",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "11",
+      "2016": "11",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "41",
+      "2016": "48",
+      "change": "17.1"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "15",
+      "change": "25.0"
+    },
+    "2year": {
+      "change": "-6.2"
+    },
+    "6year": {
+      "change": "50.0"
+    },
+    "23year": {
+      "change": "-21.1"
+    }
+  },
+  "032": {
+    "precinct": "32",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "4",
+      "2016": "10",
+      "change": "150.0"
+    },
+    "28day": {
+      "2015": "21",
+      "2016": "31",
+      "change": "47.6"
+    },
+    "year": {
+      "2015": "5",
+      "2016": "11",
+      "change": "120.0"
+    },
+    "2year": {
+      "change": "120.0"
+    },
+    "6year": {
+      "change": "120.0"
+    },
+    "23year": {
+      "change": "-42.1"
+    }
+  },
+  "076": {
+    "precinct": "76",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "5",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "28day": {
+      "2015": "17",
+      "2016": "12",
+      "change": "-29.4"
+    },
+    "year": {
+      "2015": "6",
+      "2016": "1",
+      "change": "-83.3"
+    },
+    "2year": {
+      "change": "-87.5"
+    },
+    "6year": {
+      "change": "-75.0"
+    },
+    "23year": {
+      "change": "-85.7"
+    }
+  },
+  "017": {
+    "precinct": "17",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "16",
+      "change": "33.3"
+    },
+    "28day": {
+      "2015": "38",
+      "2016": "73",
+      "change": "92.1"
+    },
+    "year": {
+      "2015": "14",
+      "2016": "18",
+      "change": "28.6"
+    },
+    "2year": {
+      "change": "12.5"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-59.1"
+    }
+  },
+  "024": {
+    "precinct": "24",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "14",
+      "change": "55.6"
+    },
+    "28day": {
+      "2015": "31",
+      "2016": "48",
+      "change": "54.8"
+    },
+    "year": {
+      "2015": "13",
+      "2016": "19",
+      "change": "46.2"
+    },
+    "2year": {
+      "change": "11.8"
+    },
+    "6year": {
+      "change": "26.7"
+    },
+    "23year": {
+      "change": "-24.0"
+    }
+  },
+  "079": {
+    "precinct": "79",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "7",
+      "2016": "2",
+      "change": "-71.4"
+    },
+    "28day": {
+      "2015": "27",
+      "2016": "30",
+      "change": "11.1"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-50.0"
+    },
+    "6year": {
+      "change": "-14.3"
+    },
+    "23year": {
+      "change": "-85.0"
+    }
+  },
+  "094": {
+    "precinct": "94",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "10",
+      "2016": "10",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "31",
+      "2016": "30",
+      "change": "-3.2"
+    },
+    "year": {
+      "2015": "14",
+      "2016": "10",
+      "change": "-28.6"
+    },
+    "2year": {
+      "change": "-37.5"
+    },
+    "6year": {
+      "change": "25.0"
+    },
+    "23year": {
+      "change": "-9.1"
+    }
+  },
+  "043": {
+    "precinct": "43",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "15",
+      "2016": "15",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "46",
+      "2016": "63",
+      "change": "37.0"
+    },
+    "year": {
+      "2015": "15",
+      "2016": "21",
+      "change": "40.0"
+    },
+    "2year": {
+      "change": "10.5"
+    },
+    "6year": {
+      "change": "23.5"
+    },
+    "23year": {
+      "change": "75.0"
+    }
+  },
+  "062": {
+    "precinct": "62",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "10",
+      "2016": "5",
+      "change": "-50.0"
+    },
+    "28day": {
+      "2015": "42",
+      "2016": "36",
+      "change": "-14.3"
+    },
+    "year": {
+      "2015": "14",
+      "2016": "9",
+      "change": "-35.7"
+    },
+    "2year": {
+      "change": "80.0"
+    },
+    "6year": {
+      "change": "-35.7"
+    },
+    "23year": {
+      "change": "-35.7"
+    }
+  },
+  "023": {
+    "precinct": "23",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "4",
+      "2016": "3",
+      "change": "-25.0"
+    },
+    "28day": {
+      "2015": "27",
+      "2016": "20",
+      "change": "-25.9"
+    },
+    "year": {
+      "2015": "7",
+      "2016": "4",
+      "change": "-42.9"
+    },
+    "2year": {
+      "change": "-55.6"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-77.8"
+    }
+  },
+  "060": {
+    "precinct": "60",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "10",
+      "change": "66.7"
+    },
+    "28day": {
+      "2015": "36",
+      "2016": "28",
+      "change": "-22.2"
+    },
+    "year": {
+      "2015": "10",
+      "2016": "12",
+      "change": "20.0"
+    },
+    "2year": {
+      "change": "-7.7"
+    },
+    "6year": {
+      "change": "33.3"
+    },
+    "23year": {
+      "change": "-20.0"
+    }
+  },
+  "044": {
+    "precinct": "44",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "11",
+      "2016": "9",
+      "change": "-18.2"
+    },
+    "28day": {
+      "2015": "46",
+      "2016": "53",
+      "change": "15.2"
+    },
+    "year": {
+      "2015": "15",
+      "2016": "10",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-50.0"
+    },
+    "6year": {
+      "change": "66.7"
+    },
+    "23year": {
+      "change": "-33.3"
+    }
+  },
+  "069": {
+    "precinct": "69",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "7",
+      "2016": "5",
+      "change": "-28.6"
+    },
+    "28day": {
+      "2015": "20",
+      "2016": "33",
+      "change": "65.0"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-14.3"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-50.0"
+    }
+  },
+  "007": {
+    "precinct": "7",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "5",
+      "2016": "9",
+      "change": "80.0"
+    },
+    "28day": {
+      "2015": "29",
+      "2016": "39",
+      "change": "34.5"
+    },
+    "year": {
+      "2015": "8",
+      "2016": "16",
+      "change": "100.0"
+    },
+    "2year": {
+      "change": "33.3"
+    },
+    "6year": {
+      "change": "300.0"
+    },
+    "23year": {
+      "change": "23.1"
+    }
+  },
+  "006": {
+    "precinct": "6",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "15",
+      "2016": "23",
+      "change": "53.3"
+    },
+    "28day": {
+      "2015": "69",
+      "2016": "90",
+      "change": "30.4"
+    },
+    "year": {
+      "2015": "25",
+      "2016": "30",
+      "change": "20.0"
+    },
+    "2year": {
+      "change": "15.4"
+    },
+    "6year": {
+      "change": "20.0"
+    },
+    "23year": {
+      "change": "-53.8"
+    }
+  },
+  "020": {
+    "precinct": "20",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "12",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "53",
+      "2016": "55",
+      "change": "3.8"
+    },
+    "year": {
+      "2015": "20",
+      "2016": "20",
+      "change": "0.0"
+    },
+    "2year": {
+      "change": "-28.6"
+    },
+    "6year": {
+      "change": "-16.7"
+    },
+    "23year": {
+      "change": "-67.2"
+    }
+  },
+  "071": {
+    "precinct": "71",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "10",
+      "change": "-16.7"
+    },
+    "28day": {
+      "2015": "40",
+      "2016": "34",
+      "change": "-15.0"
+    },
+    "year": {
+      "2015": "15",
+      "2016": "10",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-23.1"
+    },
+    "6year": {
+      "change": "-33.3"
+    },
+    "23year": {
+      "change": "11.1"
+    }
+  },
+  "072": {
+    "precinct": "72",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "10",
+      "2016": "8",
+      "change": "-20.0"
+    },
+    "28day": {
+      "2015": "36",
+      "2016": "32",
+      "change": "-11.1"
+    },
+    "year": {
+      "2015": "10",
+      "2016": "9",
+      "change": "-10.0"
+    },
+    "2year": {
+      "change": "-18.2"
+    },
+    "6year": {
+      "change": "28.6"
+    },
+    "23year": {
+      "change": "-18.2"
+    }
+  },
+  "046": {
+    "precinct": "46",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "6",
+      "2016": "13",
+      "change": "116.7"
+    },
+    "28day": {
+      "2015": "30",
+      "2016": "30",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "8",
+      "2016": "14",
+      "change": "75.0"
+    },
+    "2year": {
+      "change": "27.3"
+    },
+    "6year": {
+      "change": "180.0"
+    },
+    "23year": {
+      "change": "-39.1"
+    }
+  },
+  "048": {
+    "precinct": "48",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "12",
+      "2016": "11",
+      "change": "-8.3"
+    },
+    "28day": {
+      "2015": "39",
+      "2016": "34",
+      "change": "-12.8"
+    },
+    "year": {
+      "2015": "16",
+      "2016": "14",
+      "change": "-12.5"
+    },
+    "2year": {
+      "change": "-12.5"
+    },
+    "6year": {
+      "change": "100.0"
+    },
+    "23year": {
+      "change": "-17.6"
+    }
+  },
+  "052": {
+    "precinct": "52",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "14",
+      "2016": "14",
+      "change": "0.0"
+    },
+    "28day": {
+      "2015": "60",
+      "2016": "47",
+      "change": "-21.7"
+    },
+    "year": {
+      "2015": "16",
+      "2016": "14",
+      "change": "-12.5"
+    },
+    "2year": {
+      "change": "40.0"
+    },
+    "6year": {
+      "change": "133.3"
+    },
+    "23year": {
+      "change": "-58.8"
+    }
+  },
+  "073": {
+    "precinct": "73",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "11",
+      "2016": "9",
+      "change": "-18.2"
+    },
+    "28day": {
+      "2015": "33",
+      "2016": "30",
+      "change": "-9.1"
+    },
+    "year": {
+      "2015": "13",
+      "2016": "11",
+      "change": "-15.4"
+    },
+    "2year": {
+      "change": "120.0"
+    },
+    "6year": {
+      "change": "0.0"
+    },
+    "23year": {
+      "change": "-47.6"
+    }
+  },
+  "084": {
+    "precinct": "84",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "25",
+      "2016": "11",
+      "change": "-56.0"
+    },
+    "28day": {
+      "2015": "53",
+      "2016": "43",
+      "change": "-18.9"
+    },
+    "year": {
+      "2015": "29",
+      "2016": "11",
+      "change": "-62.1"
+    },
+    "2year": {
+      "change": "37.5"
+    },
+    "6year": {
+      "change": "-21.4"
+    },
+    "23year": {
+      "change": "-60.7"
+    }
+  },
+  "077": {
+    "precinct": "77",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "8",
+      "2016": "15",
+      "change": "87.5"
+    },
+    "28day": {
+      "2015": "39",
+      "2016": "31",
+      "change": "-20.5"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "21",
+      "change": "75.0"
+    },
+    "2year": {
+      "change": "50.0"
+    },
+    "6year": {
+      "change": "600.0"
+    },
+    "23year": {
+      "change": "162.5"
+    }
+  },
+  "078": {
+    "precinct": "78",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "28day": {
+      "2015": "38",
+      "2016": "27",
+      "change": "-28.9"
+    },
+    "year": {
+      "2015": "11",
+      "2016": "7",
+      "change": "-36.4"
+    },
+    "2year": {
+      "change": "-22.2"
+    },
+    "6year": {
+      "change": "-41.7"
+    },
+    "23year": {
+      "change": "-12.5"
+    }
+  }
+}

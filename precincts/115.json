@@ -1,0 +1,493 @@
+{
+  "murder": {
+    "precinct": "115",
+    "crime": {
+      "name": "Murder",
+      "penal": "A-1",
+      "classification": "FELONY",
+      "number": 37
+    },
+    "week": {
+      "2015": "0",
+      "2016": "0",
+      "change": "***.*"
+    },
+    "28day": {
+      "2015": "1",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "year": {
+      "2015": "0",
+      "2016": "0",
+      "change": "***.*"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "rape": {
+    "precinct": "115",
+    "crime": {
+      "name": "Rape",
+      "penal": [
+        "E",
+        "D",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 50
+    },
+    "week": {
+      "2015": "1",
+      "2016": "2",
+      "change": "100.0"
+    },
+    "28day": {
+      "2015": "3",
+      "2016": "3",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "1",
+      "2016": "2",
+      "change": "100.0"
+    },
+    "2year": {
+      "change": "100.0"
+    },
+    "6year": {
+      "change": "100.0"
+    },
+    "23year": {
+      "change": "0.0"
+    }
+  },
+  "robbery": {
+    "precinct": "115",
+    "crime": {
+      "name": "Robbery",
+      "penal": [
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 63
+    },
+    "week": {
+      "2015": "8",
+      "2016": "3",
+      "change": "-62.5"
+    },
+    "28day": {
+      "2015": "26",
+      "2016": "35",
+      "change": "34.6"
+    },
+    "year": {
+      "2015": "12",
+      "2016": "5",
+      "change": "-58.3"
+    },
+    "2year": {
+      "change": "-50.0"
+    },
+    "6year": {
+      "change": "-44.4"
+    },
+    "23year": {
+      "change": "-87.8"
+    }
+  },
+  "felAssault": {
+    "precinct": "115",
+    "crime": {
+      "name": "Felonious Assault",
+      "penal": [
+        "D",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 76
+    },
+    "week": {
+      "2015": "7",
+      "2016": "2",
+      "change": "-71.4"
+    },
+    "28day": {
+      "2015": "22",
+      "2016": "28",
+      "change": "27.3"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "6",
+      "change": "-33.3"
+    },
+    "2year": {
+      "change": "-60.0"
+    },
+    "6year": {
+      "change": "-25.0"
+    },
+    "23year": {
+      "change": "-50.0"
+    }
+  },
+  "burglary": {
+    "precinct": "115",
+    "crime": {
+      "name": "Burglary",
+      "penal": [
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 89
+    },
+    "week": {
+      "2015": "6",
+      "2016": "5",
+      "change": "-16.7"
+    },
+    "28day": {
+      "2015": "27",
+      "2016": "24",
+      "change": "-11.1"
+    },
+    "year": {
+      "2015": "11",
+      "2016": "10",
+      "change": "-9.1"
+    },
+    "2year": {
+      "change": "11.1"
+    },
+    "6year": {
+      "change": "25.0"
+    },
+    "23year": {
+      "change": "-89.2"
+    }
+  },
+  "grandLarceny": {
+    "precinct": "115",
+    "crime": {
+      "name": "Grand Larceny",
+      "penal": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "classification": "FELONY",
+      "number": 102
+    },
+    "week": {
+      "2015": "18",
+      "2016": "14",
+      "change": "-22.2"
+    },
+    "28day": {
+      "2015": "50",
+      "2016": "40",
+      "change": "-20.0"
+    },
+    "year": {
+      "2015": "21",
+      "2016": "19",
+      "change": "-9.5"
+    },
+    "2year": {
+      "change": "-5.0"
+    },
+    "6year": {
+      "change": "11.8"
+    },
+    "23year": {
+      "change": "-48.6"
+    }
+  },
+  "grandLarcenyAuto": {
+    "precinct": "115",
+    "crime": {
+      "name": "Grand Larceny Auto",
+      "penal": "",
+      "classification": "FELONY",
+      "number": 115
+    },
+    "week": {
+      "2015": "8",
+      "2016": "1",
+      "change": "-87.5"
+    },
+    "28day": {
+      "2015": "16",
+      "2016": "2",
+      "change": "-87.5"
+    },
+    "year": {
+      "2015": "9",
+      "2016": "2",
+      "change": "-77.8"
+    },
+    "2year": {
+      "change": "0.0"
+    },
+    "6year": {
+      "change": "-71.4"
+    },
+    "23year": {
+      "change": "-96.0"
+    }
+  },
+  "transit": {
+    "precinct": "115",
+    "crime": {
+      "name": "Transit",
+      "penal": "",
+      "classification": "",
+      "number": 141
+    },
+    "week": {
+      "2015": "2",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "28day": {
+      "2015": "3",
+      "2016": "3",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "2",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "housing": {
+    "precinct": "115",
+    "crime": {
+      "name": "Housing",
+      "penal": "",
+      "classification": "",
+      "number": 154
+    },
+    "week": {
+      "2015": "0",
+      "2016": "0",
+      "change": "***.*"
+    },
+    "28day": {
+      "2015": "0",
+      "2016": "0",
+      "change": "***.*"
+    },
+    "year": {
+      "2015": "0",
+      "2016": "0",
+      "change": "***.*"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "petitLarceny": {
+    "precinct": "115",
+    "crime": {
+      "name": "Petit Larceny",
+      "penal": "A",
+      "classification": "MISDEMEANOR",
+      "number": 167
+    },
+    "week": {
+      "2015": "21",
+      "2016": "20",
+      "change": "-4.8"
+    },
+    "28day": {
+      "2015": "72",
+      "2016": "80",
+      "change": "11.1"
+    },
+    "year": {
+      "2015": "21",
+      "2016": "27",
+      "change": "28.6"
+    },
+    "2year": {
+      "change": "-6.9"
+    },
+    "6year": {
+      "change": "-15.6"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "misdAssault": {
+    "precinct": "115",
+    "crime": {
+      "name": "Misdemeanor Assault",
+      "penal": "A",
+      "classification": "MISDEMEANOR",
+      "number": 180
+    },
+    "week": {
+      "2015": "14",
+      "2016": "13",
+      "change": "-7.1"
+    },
+    "28day": {
+      "2015": "63",
+      "2016": "61",
+      "change": "-3.2"
+    },
+    "year": {
+      "2015": "21",
+      "2016": "22",
+      "change": "4.8"
+    },
+    "2year": {
+      "change": "10.0"
+    },
+    "6year": {
+      "change": "-24.1"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "misdSexCrimes": {
+    "precinct": "115",
+    "crime": {
+      "name": "Misdemeanor Sex Crimes",
+      "penal": [
+        "A",
+        "B"
+      ],
+      "classification": "MISDEMEANOR",
+      "number": 193
+    },
+    "week": {
+      "2015": "4",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "28day": {
+      "2015": "5",
+      "2016": "5",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "4",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "-100.0"
+    },
+    "23year": {
+      "change": "***.*"
+    }
+  },
+  "shootingVic": {
+    "precinct": "115",
+    "crime": {
+      "name": "Shooting with Victim",
+      "penal": [
+        "C",
+        "D"
+      ],
+      "classification": "FELONY",
+      "number": 206
+    },
+    "week": {
+      "2015": "1",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "28day": {
+      "2015": "2",
+      "2016": "2",
+      "change": "0.0"
+    },
+    "year": {
+      "2015": "1",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "-100.0"
+    }
+  },
+  "shootingInc": {
+    "precinct": "115",
+    "crime": {
+      "name": "Shooting Incident",
+      "penal": [
+        "C",
+        "D"
+      ],
+      "classification": "FELONY",
+      "number": 219
+    },
+    "week": {
+      "2015": "1",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "28day": {
+      "2015": "2",
+      "2016": "1",
+      "change": "-50.0"
+    },
+    "year": {
+      "2015": "1",
+      "2016": "0",
+      "change": "-100.0"
+    },
+    "2year": {
+      "change": "***.*"
+    },
+    "6year": {
+      "change": "***.*"
+    },
+    "23year": {
+      "change": "-100.0"
+    }
+  }
+}
